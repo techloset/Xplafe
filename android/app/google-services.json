@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026698097103",
+    "project_id": "xplafe-a87a3",
+    "storage_bucket": "xplafe-a87a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026698097103:android:a8217f0499bd409bdb22ba",
+        "android_client_info": {
+          "package_name": "com.xplafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWK0XPwet6dgxnHGwWkfXvhQIiWehr8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
